@@ -1,0 +1,12 @@
+Lecture-0
+Overview:
+- General purpose
+- Open source
+- Python is slightly slow as it interprets not like C which makes an executable out of source code after compilation.
+- Python packages for data science are available
+- Nice visualisation packages
+- two versions 2.7 and 3.x
+- Ipython shell (interactive)
+- Python scripts (*.py)
+Lecture-1
+- Hello Python (overview of operators)
